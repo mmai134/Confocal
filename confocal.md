@@ -1,0 +1,2 @@
+LT_APO-VISIR-0.82NA
+532nm Excitation
